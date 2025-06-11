@@ -6,7 +6,7 @@
 
 - Font: Source Code Pro
 - Colorscheme: LoFi Mocha
-- Cat Gif: [Here](https://twitter.com/avogado6/status/1165595520967954432?s=19)
+- Gif: [Here](https://imgur.com/a/iK3crCR)
 
 ![startpage](startpage.gif)
 
